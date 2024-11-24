@@ -14,7 +14,13 @@
       "countryCode": "ES",
       "region": "Spain"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "88Cnon88",
+        "url": "https://github.com/88Cnon88"
+      }
+    ]
   },
   "work": [
     {
@@ -24,7 +30,9 @@
       "startDate": "2020-01-01",
       "endDate": "2023-01-01",
       "summary": "Worked on the production line for 5 years.",
-      "highlights": []
+      "highlights": [
+        "Another employee"
+      ]
     },
     {
       "name": "Correos",
@@ -33,7 +41,9 @@
       "startDate": "2012-01-01",
       "endDate": "2016-01-01",
       "summary": "Delivered mail in Bilbao for 4 years.",
-      "highlights": []
+      "highlights": [
+        "Delivering mail and office work"
+      ]
     }
   ],
   "education": [
