@@ -2,11 +2,8 @@
   "basics": {
     "name": "Moisés Molina Lancharro",
     "label": "Production Line Worker and Mailman",
-    "image": "",
     "email": "molinalancharro@gmail.com",
     "phone": "677-26-33-07",
-    "url": "",
-    "summary": "",
     "location": {
       "address": "Alonso Cano, 12",
       "postalCode": "41005",
@@ -26,7 +23,6 @@
     {
       "name": "Persan",
       "position": "Production Line Worker",
-      "url": "",
       "startDate": "2020-01-01",
       "endDate": "2023-01-01",
       "summary": "Worked on the production line for 5 years.",
@@ -37,7 +33,6 @@
     {
       "name": "Correos",
       "position": "Mailman",
-      "url": "",
       "startDate": "2012-01-01",
       "endDate": "2016-01-01",
       "summary": "Delivered mail in Bilbao for 4 years.",
@@ -52,50 +47,36 @@
       "url": "https://www.udemy.com",
       "area": "Java",
       "studyType": "Certified",
-      "startDate": "",
       "endDate": "2024",
-      "score": ""
     },
     {
       "institution": "Udemy",
       "url": "https://www.udemy.com",
       "area": "Python",
       "studyType": "Certified",
-      "startDate": "",
-      "endDate": "",
-      "score": ""
     },
     {
-      "institution": "",
-      "url": "",
+     
       "area": "Multiplatform Application Development",
       "studyType": "Higher Technician",
-      "startDate": "",
-      "endDate": "",
-      "score": ""
+      
     },
     {
-      "institution": "",
-      "url": "",
+    
       "area": "Administrative Support",
       "studyType": "Vocational Training",
-      "startDate": "",
-      "endDate": "",
-      "score": ""
+    
     }
   ],
   "skills": [
     {
       "name": "Friendly and approachable personality",
-      "level": ""
     },
     {
       "name": "Enjoys supporting and collaborating with colleagues",
-      "level": ""
     },
     {
       "name": "Open-minded and adaptable to different work environments",
-      "level": ""
     }
   ],
   "languages": [
@@ -108,7 +89,6 @@
     {
       "name": "Jose Gómez",
       "type": "Professional Reference",
-      "url": "",
       "position": "Office Manager, Sodupe, Bilbao",
       "contact": [
         "Phone: +34 954 345 678",
@@ -118,7 +98,6 @@
     {
       "name": "Juan Pérez",
       "type": "Professional Reference",
-      "url": "",
       "position": "Supervisor at Correos, Sevilla",
 
   ]
